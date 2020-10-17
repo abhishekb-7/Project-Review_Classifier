@@ -1,4 +1,4 @@
-# Classify Yelp reviews into 1 star or 5 star categories based on the text content in the reviews # 
+# Analyze of Yelp reviews # 
 
 This will showcase use of 
 1. Naive Bayes classification algorithm 
