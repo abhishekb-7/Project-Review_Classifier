@@ -1,4 +1,4 @@
-# Analyze of Yelp reviews # 
+# Analyze of Yelp Reviews # 
 
 This will showcase use of 
 1. Naive Bayes classification algorithm 
