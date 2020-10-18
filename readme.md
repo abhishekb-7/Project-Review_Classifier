@@ -2,7 +2,7 @@
 
 This will showcase use of 
 1. Naive Bayes classification algorithm 
-2. Application of Natural language processing - removal of punctuations, connecting words and use of countvectorizer  
+2. Application of Natural language processing - removal of punctuations, stop words and use of countvectorizer  
 
 Using Yelp Review Data Set from Kaggle -(https://www.kaggle.com/c/yelp-recsys-2013).
 
